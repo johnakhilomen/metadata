@@ -1,0 +1,17 @@
+{
+  "name": "TST Token",
+  "symbol": "TST",
+  "description": "A basic NFT",
+  "image": "https://raw.githubusercontent.com/johnakhilomen/cp.png",
+  "animation_url": "https://raw.githubusercontent.com/johnakhilomen/cp.mp4",
+  "attributes": [
+    {
+     "trait_type": "Background",
+     "value": "Blue"
+   },
+  {
+    "trait_type": "Character",
+    "value": "Warrior"
+  }
+  ]
+}
